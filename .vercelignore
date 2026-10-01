@@ -1,0 +1,12 @@
+/data/**
+/artifacts/**
+/.browser/**
+/.agents/**
+/.codex/**
+/.npm-cache/**
+/node_modules/**
+/dist/**
+skills-lock.json
+.env*
+scripts/verify.ps1
+server/*.test.mjs

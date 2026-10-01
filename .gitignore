@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.npm-cache/
+*.tsbuildinfo
+.browser/
+artifacts/
+/data/
+.env
+.env.*
+.env*
+!.env.example
+
+.vercel
+.agents/
+.codex/
+skills-lock.json
