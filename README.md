@@ -2,7 +2,6 @@
 
 **Рабочее пространство для команд, проектов и задач.** Arcflow помогает небольшой команде договориться, что нужно сделать, кто отвечает за работу и на каком этапе находится задача.
 
-Репозиторий: [github.com/Sait5/arcflow](https://github.com/Sait5/arcflow).
 
 **Сайт:** [arcflow-opal.vercel.app](https://arcflow-opal.vercel.app) · [Регистрация](https://arcflow-opal.vercel.app/register)
 
